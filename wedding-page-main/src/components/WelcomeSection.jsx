@@ -65,7 +65,7 @@ export default function WelcomeSection() {
         loop
         preload="auto"
       />
-      </AnimatePresence>
+      
     </section>
   );
 }
